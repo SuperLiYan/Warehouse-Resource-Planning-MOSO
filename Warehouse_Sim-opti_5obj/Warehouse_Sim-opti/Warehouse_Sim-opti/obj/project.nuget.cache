@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1B4WfwbM8Z9BYTRpXnGUUArCCLfPIx1KZWmqNgj7mRWR3L8Nbm2/1DKK/rEK0qVNUyPaCRAtfOGsbArbfuoR+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ilgpu\\1.5.1\\ilgpu.1.5.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

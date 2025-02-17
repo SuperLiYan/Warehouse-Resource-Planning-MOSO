@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\shelfarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\shelfarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\outboundbufferarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\outboundbufferarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\oncallarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\oncallarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\inboundbufferarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\inboundbufferarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation modules\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation modules\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\simulation entities\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\simulation entities\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|c:\\users\\56333\\onedrive - national university of singapore\\defining and strategizing manpower shift\\simulation model\\warehouse_sim-opti_5obj\\warehouse_sim-opti\\warehouse_sim-opti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECAA540-7222-4678-BBC5-48840BB89A80}|Warehouse_Sim-opti\\Warehouse_Sim-opti.csproj|solutionrelative:warehouse_sim-opti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShelfArea.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\ShelfArea.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\ShelfArea.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\ShelfArea.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\ShelfArea.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAAMYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:43:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutboundBufferArea.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\OutboundBufferArea.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\OutboundBufferArea.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\OutboundBufferArea.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\OutboundBufferArea.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:43:21.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnCallArea.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\OnCallArea.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\OnCallArea.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\OnCallArea.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\OnCallArea.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:43:14.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InboundBufferArea.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\InboundBufferArea.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\InboundBufferArea.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\InboundBufferArea.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\InboundBufferArea.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:43:10.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\Generator.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\Generator.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\Generator.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\Generator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:43:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\Gate.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\Gate.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\Gate.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\Gate.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:42:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\Exit.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Modules\\Exit.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Modules\\Exit.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Modules\\Exit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:42:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Entities\\Box.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Simulation Entities\\Box.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Simulation Entities\\Box.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Simulation Entities\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:42:45.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-18T07:29:57.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse_Sim-opti\\Program.cs",
+              "ToolTip": "C:\\Users\\56333\\OneDrive - National University of Singapore\\Defining and Strategizing Manpower Shift\\Simulation Model\\Warehouse_Sim-opti_5obj\\Warehouse_Sim-opti\\Warehouse_Sim-opti\\Program.cs",
+              "RelativeToolTip": "Warehouse_Sim-opti\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:16:35.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
